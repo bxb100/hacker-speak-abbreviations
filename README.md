@@ -1,0 +1,2 @@
+# hacker-speak-abbreviations
+LOL
