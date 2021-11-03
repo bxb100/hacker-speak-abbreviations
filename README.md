@@ -18,6 +18,7 @@
 | TBD[^2]          | To Be Done(or Defined/Discussed/Decided/Determined) | <p>未完成, 将被做</p><p>根据语境不同意义有所区别, 但一般都是还没搞定的意思</p>           |            |
 | TBH[^2]          | To Be Honest                                        | 老实说                      |                                                              |
 | ATM[^2]          | At The Moment                                       | 现阶段                      |                                                              |
+| ABNF[^4][^5]     | Augmented BNF for Syntax Specifications             | 扩充巴科斯-瑙尔范式           |   形如: `规则 = 定义;注释CR LF `                           |
 
 
 ----
@@ -30,5 +31,7 @@
 [^1]: https://stackoverflow.com/questions/27810522/what-does-nit-mean-in-hacker-speak Stack Overflow
 [^2]: https://zhuanlan.zhihu.com/p/385599914 ZhiHu
 [^3]: https://farer.org/2017/03/01/code-review-acronyms/ Farer Blog
+[^4]: https://zh.wikipedia.org/wiki/%E6%89%A9%E5%85%85%E5%B7%B4%E7%A7%91%E6%96%AF%E8%8C%83%E5%BC%8F ZH Wiki
+[^5]: https://datatracker.ietf.org/doc/html/rfc5234 RFC-5234
 
 
