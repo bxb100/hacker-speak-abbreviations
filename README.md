@@ -11,7 +11,7 @@
 | IIRC[^2]         | If I Recall Correctly                               | 如果我没有记错的话          |                                                              |
 | IANAL[^2]        | I am not a lawyer , but I smell licensing issues    | -                           |                                                              |
 | IMO[^2]          | In My Opinion                                       | 在我看来                    |                                                              |
-| TL;DR[^2]        | Too Long; Didn’t Read                               | 太长别看                    |                                                              |
+| TL;DR[^2]        | Too Long; Don’t Read                               | 太长别看                    |                                                              |
 | CR[^2]           | Code Review                                         | 代码审查                    |                                                              |
 | PTAL[^2]         | Please Take A Look                                  | 用来提示别人来看一下                            |                                         |
 | TBR[^2]          | To Be Reviewed                                      |提示维护者进行 review                           |                                         |
