@@ -19,8 +19,8 @@
 | TBH[^2]          | To Be Honest                                        | 老实说                      |                                                              |
 | ATM[^2]          | At The Moment                                       | 现阶段                      |                                                              |
 | ABNF[^4][^5]     | Augmented BNF for Syntax Specifications             | 扩充巴科斯-瑙尔范式           |   形如: `规则 = 定义;注释CR LF `                           |
-| Sink[^6]             | Sink to consume something, in this case a configurable constant current of electricity | （电流）可见到不可见[^7] | Java function 中 Consumer[^8] |
-| Source[^6] | Source would mean to produce | （电流）不可见到可见[^7] | Java function 中 Supplier[^9] |
+| Sink             | Sink to consume something, in this case a configurable constant current of electricity[^6] | （电流）可见到不可见[^7] | Java function 中 Consumer[^8] |
+| Source | Source would mean to produce[^6] | （电流）不可见到可见[^7] | Java function 中 Supplier[^9] |
 
 ----
 
