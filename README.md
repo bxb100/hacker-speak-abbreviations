@@ -19,7 +19,8 @@
 | TBH[^2]          | To Be Honest                                        | 老实说                      |                                                              |
 | ATM[^2]          | At The Moment                                       | 现阶段                      |                                                              |
 | ABNF[^4][^5]     | Augmented BNF for Syntax Specifications             | 扩充巴科斯-瑙尔范式           |   形如: `规则 = 定义;注释CR LF `                           |
-
+| Sink[^6]             | Sink to consume something, in this case a configurable constant current of electricity | （电流）可见到不可见[^7] | 引申词义 |
+| Source[^6] | Source would mean to produce | （电流）不可见到可见[^7] | 引申词义 |
 
 ----
 
@@ -33,5 +34,7 @@
 [^3]: https://farer.org/2017/03/01/code-review-acronyms/ Farer Blog
 [^4]: https://zh.wikipedia.org/wiki/%E6%89%A9%E5%85%85%E5%B7%B4%E7%A7%91%E6%96%AF%E8%8C%83%E5%BC%8F ZH Wiki
 [^5]: https://datatracker.ietf.org/doc/html/rfc5234 RFC-5234
+[^6]: https://english.stackexchange.com/questions/261759/what-do-source-and-sink-mean
+[^7]: https://en.wikipedia.org/wiki/Current_sources_and_sinks
 
 
