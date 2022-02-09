@@ -19,8 +19,8 @@
 | TBH[^2]          | To Be Honest                                        | 老实说                      |                                                              |
 | ATM[^2]          | At The Moment                                       | 现阶段                      |                                                              |
 | ABNF[^4][^5]     | Augmented BNF for Syntax Specifications             | 扩充巴科斯-瑙尔范式           |   形如: `规则 = 定义;注释CR LF `                           |
-| Sink[^6]             | Sink to consume something, in this case a configurable constant current of electricity | （电流）可见到不可见[^7] | 引申词义 |
-| Source[^6] | Source would mean to produce | （电流）不可见到可见[^7] | 引申词义 |
+| Sink[^6]             | Sink to consume something, in this case a configurable constant current of electricity | （电流）可见到不可见[^7] | Java function 中 Consumer[^8] |
+| Source[^6] | Source would mean to produce | （电流）不可见到可见[^7] | Java function 中 Supplier[^9] |
 
 ----
 
@@ -36,5 +36,6 @@
 [^5]: https://datatracker.ietf.org/doc/html/rfc5234 RFC-5234
 [^6]: https://english.stackexchange.com/questions/261759/what-do-source-and-sink-mean
 [^7]: https://en.wikipedia.org/wiki/Current_sources_and_sinks
-
+[^8]: https://docs.spring.io/spring-cloud-stream/docs/3.2.1/reference/html/spring-cloud-stream.html#:~:text=the%20example%20of%20a-,sink,-semantics%20exposed%20as
+[^9]: https://docs.spring.io/spring-cloud-stream/docs/3.2.1/reference/html/spring-cloud-stream.html#:~:text=the%20example%20of%20a-,source,-semantics%20exposed%20as
 
