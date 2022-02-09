@@ -1,5 +1,5 @@
-| Abbr             | Full                                                | Chinese                     | Note                                                         |
-| ---------------- | :-------------------------------------------------- | --------------------------- | ------------------------------------------------------------ |
+| Abbr/Word | Full/Meaning   | Chinese/Explain    | Note/Utilize     |
+| --- | --- | --- | --- |
 | NIT[^1]          | nit-pick                                            | 鸡蛋里面挑骨头              |                                                              |
 | LGTM[^2]         | Looks Good To Me                                    | 代码已经过 review, 可以合并 |                                                              |
 | ASAP[^2]         | As Soon As Possible                                 | 尽快                        |                                                              |
