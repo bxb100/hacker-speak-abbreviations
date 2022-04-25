@@ -1,3 +1,6 @@
+See more in https://chromium.googlesource.com/chromiumos/docs/+/HEAD/glossary.md
+
+
 | Abbr/Word | Full/Meaning   | Chinese/Explain    | Note/Utilize     |
 | --- | --- | --- | --- |
 | NIT[^1]          | nit-pick                                            | 鸡蛋里面挑骨头              |                                                              |
